@@ -1,0 +1,2 @@
+Name,Template,Host,Datastore,Customization,NonPersistent,memory,cpu,networkadapter,portgroup,ipaddress,subnet,gateway,dns,ostype,osdomain,backupjob,vcserver,dnsserver
+vmbatch-01,centos6gold,dc01c01,DC01FS03-VOL2,centos6,temp1,1024,1,Network Adaper 1,DOMAIN-TEST,192.168.3.230,255.255.255.0,192.168.3.254,172.21.1.4,linux,domain.local,DOMAIN-CORP,vcenter41,172.21.1.4

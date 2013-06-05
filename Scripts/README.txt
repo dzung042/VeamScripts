@@ -1,0 +1,1 @@
+Make sure place folder on the root of C:\ otherwise you will need to edit each script. Edit oscust.ps1 line 37-39. Run Powermenu.ps1 to start
